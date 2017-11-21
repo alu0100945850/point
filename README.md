@@ -10,6 +10,7 @@ Add this line to your application's Gemfile:
 ```ruby
 gem 'point'
 ```
+# test travis
 
 And then execute:
 
